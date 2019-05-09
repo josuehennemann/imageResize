@@ -1,0 +1,4 @@
+logPath: log/
+dataPath: data/
+libPath: 
+httpAddress: localhost:8080
